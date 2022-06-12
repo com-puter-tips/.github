@@ -1,3 +1,3 @@
-Computer Tips (https://com.puter.tips/) is a tech blog by Devharsh Trivedi (https://www.devharsh.me/).
+Computer Tips (https://com.puter.tips/) is a tech blog founded in 2015 by Devharsh Trivedi (https://www.devharsh.me/).
 
-Computer Tips provides you simple tutorials to follow along, cool tech hacks and solutions to some common issues you may expeience while installing a program or running a code.
+Computer Tips brings you simple tutorials to follow along, cool tech hacks, and solutions to some common issues you may experience while installing software or executing a code.
